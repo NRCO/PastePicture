@@ -13,7 +13,7 @@ class PastePicturePlugin extends MantisPlugin  {
 
 		$this->version = '1.0';
 		$this->requires = array(
-			'MantisCore' => '1.2.0',
+			'MantisCore' => '2.1.0',
 		);
 
 		$this->author = 'fatman';
